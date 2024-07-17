@@ -11,6 +11,8 @@ module.exports = {
 
     'API Cobranças': ['api-cobrancas/credenciais', 'api-cobrancas/boleto', 'api-cobrancas/cartao', 'api-cobrancas/carne', 'api-cobrancas/assinatura', 'api-cobrancas/link-de-pagamento', 'api-cobrancas/split-de-pagamento', 'api-cobrancas/notificacoes', 'api-cobrancas/status', 'api-cobrancas/erros', 'api-cobrancas/limites-de-consumo', 'api-cobrancas/fluxogramas'],
 
+    'Erros': ['erros/introducao'],
+    
     'SDKs': ['sdk/introducao', 'sdk/php', 'sdk/node', 'sdk/python', 'sdk/java', 'sdk/go', 'sdk/ruby', 'sdk/dotnet-core', 'sdk/type-script', 'sdk/delphi', 'sdk/flutter', 'sdk/android'],
 
     'Módulos e Plugins': ['modulos/introducao-modulos', 'modulos/WordPress', 'modulos/PrestaShop', 'modulos/WHMCS', , 'modulos/OpenCart', 'modulos/OpenMage', 'modulos/Magento2', 'modulos/Bubble'],

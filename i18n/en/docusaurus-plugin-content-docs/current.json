@@ -1,0 +1,62 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.API Pix": {
+    "message": "Pix API",
+    "description": "The label for category API Pix in sidebar docs"
+  },
+  "sidebar.docs.category.API Pagamento de Contas": {
+    "message": "Bill Payment API",
+    "description": "The label for category API Pagamento de Contas in sidebar docs"
+  },
+  "sidebar.docs.category.API Pix via Open Finance": {
+    "message": "Pix API through Open Finance",
+    "description": "The label for category API Pix via Open Finance in sidebar docs"
+  },
+  "sidebar.docs.category.API Abertura de Contas": {
+    "message": "Account Opening API",
+    "description": "The label for category API Abertura de Contas in sidebar docs"
+  },
+  "sidebar.docs.category.API Cobranças": {
+    "message": "Billings API",
+    "description": "The label for category API Cobranças in sidebar docs"
+  },
+  "sidebar.docs.category.SDKs": {
+    "message": "SDKs",
+    "description": "The label for category SDKs in sidebar docs"
+  },
+  "sidebar.docs.category.Módulos e Plugins": {
+    "message": "Modules and Plugins",
+    "description": "The label for category Módulos e Plugins in sidebar docs"
+  },
+  "sidebar.docs.category.Exemplos de Integrações": {
+    "message": "Examples of Integrations",
+    "description": "The label for category Exemplos de Integrações in sidebar docs"
+  },
+  "sidebar.docs.category.Curso": {
+    "message": "Course",
+    "description": "The label for category Curso in sidebar docs"
+  },
+  "sidebar.docs.category.Dúvidas": {
+    "message": "Doubts",
+    "description": "The label for category Dúvidas in sidebar docs"
+  },
+  "sidebar.docs.link.Discord": {
+    "message": "Discord",
+    "description": "The label for link Discord in sidebar docs, linking to https://comunidade.sejaefi.com.br"
+  },
+  "sidebar.docs.link.FAQ": {
+    "message": "FAQ",
+    "description": "The label for link FAQ in sidebar docs, linking to https://sejaefi.com.br/central-de-ajuda/api/oferecer-pagamento-online-em-site#conteudo"
+  },
+  "sidebar.docs.link.Glossário": {
+    "message": "Glossary",
+    "description": "The label for link Glossário in sidebar docs, linking to https://sejaefi.com.br/central-de-ajuda/api/glossario-com-os-termos-e-palavras-mais-comuns#conteudo"
+  },
+  "sidebar.docs.link.Fale Conosco": {
+    "message": "Contact us",
+    "description": "The label for link Fale Conosco in sidebar docs, linking to https://sejaefi.com.br/central-de-ajuda/outros/entrar-em-contato#conteudo"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "item.label.Abra sua conta grátis": {
+    "message": "Open your free account",
+    "description": "Navbar item with label Open your free account"
+  },
+  "item.label.Acessar minha conta": {
+    "message": "Access my account",
+    "description": "Navbar item with label Access my account"
+  }
+}
