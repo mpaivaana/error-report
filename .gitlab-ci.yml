@@ -1,0 +1,65 @@
+image: node:16-alpine 
+
+variables:
+  GN_GITLAB_TESTING_URL: "gitlab.interno.testegerencianet.com.br"
+  REPO: "git@gitlab.interno.testegerencianet.com.br:consultoria-tecnica/documentacao-tecnica-efipay.git"
+
+.shared_before_script: &shared
+  before_script:
+    - mkdir -p /usr/local/share/ca-certificates
+    - cp docker/Gerencianet-CA.crt /usr/local/share/ca-certificates/Gerencianet-CA.crt
+    - apk add ca-certificates git curl openssh make build-base
+    - update-ca-certificates
+    - eval $(ssh-agent -s)
+    - mkdir -p ~/.ssh
+  cache:
+    key: no_cache
+    paths:
+      - node_modules/
+
+.deploy: &deploy
+  before_script:
+    - apk add curl
+  script:
+    - echo '---> Variaveis '
+    - echo "$CI_COMMIT_TAG"
+    - echo "$DEPLOY_URL"
+    - echo "$DEPLOY_TOKEN"
+    - curl --insecure -k -X POST -F token=$DEPLOY_TOKEN -F ref=master -F variables[GN_VERSAO_APP]=$CI_COMMIT_TAG $DEPLOY_URL
+  only:
+    - tags
+  when: manual
+  resource_group: deploy
+  allow_failure: false
+
+stages:
+  - tags
+  - testing
+  - production
+
+tag:
+  stage: tags
+  image: node:16-stretch
+  script:
+    - chmod 700 ./scripts/tag.sh
+    - ./scripts/tag.sh
+    - echo 'CI_COMMIT_TAG'
+    - echo "$CI_COMMIT_TAG"
+  resource_group: tag
+  rules:
+    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_COMMIT_TAG == null && $CI_COMMIT_MESSAGE !~ /Release [0-9]+\.[0-9]+\.[0-9]+/'
+      when: always
+    - when: never
+  allow_failure: true
+
+deploy-testing:
+  stage: testing
+  <<: *deploy
+  environment:
+    name: testing
+
+deploy-production:
+  stage: production
+  <<: *deploy
+  environment:
+    name: production

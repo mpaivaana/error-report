@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gerado pelo Microsoft Visio, SVG Export gerar_cobranca_dark.svg Página-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.59263in" height="14.8901in"
+		viewBox="0 0 618.669 1072.09" xml:space="preserve" color-interpolation-filters="sRGB" class="st27">
+	<v:documentProperties v:langID="1046" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#b50000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#f6f8fc;font-family:Red Hat Display Medium;font-size:1.16666em}
+		.st4 {fill:#f5fcf4;stroke:#57a73b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:#2f2f2f;font-family:Red Hat Display Medium;font-size:1.16666em}
+		.st6 {fill:#bcdcb0;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#247907;font-family:Red Hat Display;font-size:1.16666em;font-weight:bold}
+		.st8 {fill:#f6f8fc;stroke:#a4acbc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st9 {font-size:1em}
+		.st10 {marker-end:url(#mrkr6-29);stroke:#f6f8fc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st11 {fill:#f6f8fc;fill-opacity:1;stroke:#f6f8fc;stroke-opacity:1;stroke-width:0.20161290322581}
+		.st12 {fill:#fcf5f5;stroke:#b50000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st13 {fill:#b50000;stroke:#b50000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st14 {fill:#f37021;font-size:1em}
+		.st15 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st16 {fill:#faf6fd;stroke:#7030a0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st17 {fill:#7030a0;fill-opacity:1;stroke:#7030a0;stroke-opacity:1;stroke-width:0.40983606557377}
+		.st18 {fill:#7030a0;fill-opacity:1;stroke:#7030a0;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st19 {fill:#262626;stroke:#a4acbc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st20 {fill:#1f231e;stroke:#57a73b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st21 {fill:#365829;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st22 {fill:#a2de8e;font-family:Red Hat Display;font-size:1.16666em;font-weight:bold}
+		.st23 {fill:#221e26;stroke:#986abb;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st24 {fill:#986abb;fill-opacity:1;stroke:#986abb;stroke-opacity:1;stroke-width:0.40983606557377}
+		.st25 {fill:#986abb;fill-opacity:1;stroke:#986abb;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st26 {fill:#221e26;stroke:#b50000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st27 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend6">
+			<path d="M 2 1 L 0 0 L 2.01237 -1.00641 C 2.32921 -0.372876 2.32921 0.372869 2.01238 1.0064 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr6-29" class="st11" v:arrowType="6" v:arrowSize="4" v:setback="11.16" refX="-11.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend6" transform="scale(-4.96,-4.96) "/>
+		</marker>
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-98" class="st17" v:arrowType="1" v:arrowSize="0" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(2.44) "/>
+		</marker>
+		<g id="lend2">
+			<path d="M 1 1 L 0 0 L 1 -1 L 1 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr2-100" class="st18" v:arrowType="2" v:arrowSize="2" v:setback="3.52" refX="-3.52" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr1-190" class="st24" v:arrowType="1" v:arrowSize="0" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(2.44) "/>
+		</marker>
+		<marker id="mrkr2-192" class="st25" v:arrowType="2" v:arrowSize="2" v:setback="3.52" refX="-3.52" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Página-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Conector" v:index="0"/>
+		<v:layer v:name="Anotações" v:index="1"/>
+		<g id="group1-1" transform="translate(272.484,-1026.93)" v:mID="1" v:groupContext="group">
+			<title>Nó inicial</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape" transform="translate(24.8031,2.27374E-13)">
+				<title>Planilha.2</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<ellipse cx="12.0472" cy="1060.04" rx="12.0472" ry="12.0472" class="st1"/>
+			</g>
+			<g id="shape3-4" v:mID="3" v:groupContext="shape" transform="translate(-7.99361E-15,-28.3465)">
+				<title>Planilha.3</title>
+				<desc>Start</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36.8504" cy="1063.87" width="73.71" height="16.4409"/>
+				<rect x="0" y="1055.65" width="73.7008" height="16.4409" class="st2"/>
+				<text x="20.79" y="1068.07" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>Start</text>			</g>
+		</g>
+		<g id="group4-7" transform="translate(225.004,-777.193)" v:mID="4" v:groupContext="group">
+			<title>[endpoint] POST</title>
+			<g id="shape5-8" v:mID="5" v:groupContext="shape" transform="translate(1.91454E-05,0)">
+				<title>Planilha.5</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st4"/>
+			</g>
+			<g id="shape6-10" v:mID="6" v:groupContext="shape" transform="translate(0,-13.9134)">
+				<title>Planilha.6</title>
+				<desc>/v1/authorize</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1061.46" width="168.67" height="21.2598"/>
+				<rect x="0" y="1050.83" width="168.661" height="21.2598" class="st2"/>
+				<text x="41.57" y="1065.66" class="st5" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>/v1/authorize</text>			</g>
+			<g id="shape7-13" v:mID="7" v:groupContext="shape" transform="translate(54.9213,-40.4645)">
+				<title>Planilha.7</title>
+				<desc>POST</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.4094" cy="1059.72" width="58.82" height="24.7323"/>
+				<rect x="0" y="1047.36" width="58.8189" height="24.7323" rx="12.3662" ry="12.3662" class="st6"/>
+				<text x="9.96" y="1064.97" class="st7" v:langID="1046"><v:paragraph v:spLine="-1.5" v:horizAlign="1"/><v:tabList/>POST</text>			</g>
+		</g>
+		<g id="group8-16" transform="translate(225.004,-911.98)" v:mID="8" v:groupContext="group">
+			<title>Entidade</title>
+			<g id="shape9-17" v:mID="9" v:groupContext="shape" transform="translate(9.57272E-06,0)">
+				<title>Planilha.9</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st8"/>
+			</g>
+			<g id="shape10-19" v:mID="10" v:groupContext="shape" transform="translate(0,-13.1102)">
+				<title>Planilha.10</title>
+				<desc>Autenticação na API Cobranças</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1045.51" width="168.67" height="53.1496"/>
+				<rect x="0" y="1018.94" width="168.661" height="53.1496" class="st2"/>
+				<text x="19.67" y="1040.61" class="st5" v:langID="1046"><v:paragraph v:spLine="-1.4" v:horizAlign="1"/><v:tabList/>Autenticação na API <tspan
+							x="49.92" dy="1.4em" class="st9">Cobranças</tspan></text>			</g>
+		</g>
+		<g id="group11-23" transform="translate(302.248,-1026.93)" v:mID="11" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶</title>
+			<g id="shape11-24" v:mID="11" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M7.09 1072.09 L7.09 1096.5" class="st10"/>
+			</g>
+		</g>
+		<g id="group16-30" transform="translate(225.004,-642.406)" v:mID="16" v:groupContext="group">
+			<title>Entidade.35</title>
+			<g id="shape17-31" v:mID="17" v:groupContext="shape" transform="translate(9.57272E-06,0)">
+				<title>Planilha.17</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st8"/>
+			</g>
+			<g id="shape18-33" v:mID="18" v:groupContext="shape" transform="translate(0,-13.1102)">
+				<title>Planilha.18</title>
+				<desc>Criar cobrança</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1045.51" width="168.67" height="53.1496"/>
+				<rect x="0" y="1018.94" width="168.661" height="53.1496" class="st2"/>
+				<text x="37.62" y="1050.41" class="st5" v:langID="1046"><v:paragraph v:spLine="-1.4" v:horizAlign="1"/><v:tabList/>Criar cobrança</text>			</g>
+		</g>
+		<g id="group19-36" transform="translate(302.248,-911.98)" v:mID="19" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.83</title>
+			<g id="shape19-37" v:mID="19" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M7.09 1072.09 L7.09 1116.34" class="st10"/>
+			</g>
+		</g>
+		<g id="group24-42" transform="translate(0.499981,-383.177)" v:mID="24" v:groupContext="group">
+			<title>[endpoint] POST.160</title>
+			<g id="shape25-43" v:mID="25" v:groupContext="shape" transform="translate(1.91454E-05,0)">
+				<title>Planilha.25</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st4"/>
+			</g>
+			<g id="shape26-45" v:mID="26" v:groupContext="shape" transform="translate(0,-13.9134)">
+				<title>Planilha.26</title>
+				<desc>/v1/charge/one-step</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1061.46" width="168.67" height="21.2598"/>
+				<rect x="0" y="1050.83" width="168.661" height="21.2598" class="st2"/>
+				<text x="16.53" y="1065.66" class="st5" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>/v1/charge/one-step</text>			</g>
+			<g id="shape27-48" v:mID="27" v:groupContext="shape" transform="translate(54.9213,-40.4645)">
+				<title>Planilha.27</title>
+				<desc>POST</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.4094" cy="1059.72" width="58.82" height="24.7323"/>
+				<rect x="0" y="1047.36" width="58.8189" height="24.7323" rx="12.3662" ry="12.3662" class="st6"/>
+				<text x="9.96" y="1064.97" class="st7" v:langID="1046"><v:paragraph v:spLine="-1.5" v:horizAlign="1"/><v:tabList/>POST</text>			</g>
+		</g>
+		<g id="group28-51" transform="translate(50.3898,-25.0118)" v:mID="28" v:groupContext="group">
+			<title>Nó final.1012</title>
+			<g id="shape29-52" v:mID="29" v:groupContext="shape" transform="translate(-8.79297E-14,24.5118)">
+				<title>Planilha.29</title>
+				<desc>End</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36.8504" cy="1063.87" width="73.71" height="16.4409"/>
+				<rect x="0" y="1055.65" width="73.7008" height="16.4409" class="st2"/>
+				<text x="24.24" y="1068.07" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>End</text>			</g>
+			<g id="group30-55" transform="translate(22.3228,-2.27374E-13)" v:mID="30" v:groupContext="group">
+				<title>Planilha.30</title>
+				<g id="shape31-56" v:mID="31" v:groupContext="shape">
+					<title>Planilha.31</title>
+					<ellipse cx="14.5276" cy="1057.55" rx="14.5276" ry="14.5391" class="st12"/>
+				</g>
+				<g id="shape32-58" v:mID="32" v:groupContext="shape" transform="translate(4.66093,-4.66464)">
+					<title>Planilha.32</title>
+					<ellipse cx="9.86663" cy="1062.21" rx="9.86663" ry="9.87449" class="st13"/>
+				</g>
+			</g>
+		</g>
+		<g id="group33-60" transform="translate(316.421,-777.193)" v:mID="33" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963978158):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1107</title>
+			<g id="shape33-61" v:mID="33" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M-7.09 1072.09 L-7.09 1116.34" class="st10"/>
+			</g>
+		</g>
+		<g id="group38-66" transform="translate(449.508,-255.618)" v:mID="38" v:groupContext="group">
+			<title>[endpoint] POST.1112</title>
+			<g id="shape39-67" v:mID="39" v:groupContext="shape" transform="translate(1.91454E-05,0)">
+				<title>Planilha.39</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st4"/>
+			</g>
+			<g id="shape40-69" v:mID="40" v:groupContext="shape" transform="translate(0,-13.9134)">
+				<title>Planilha.40</title>
+				<desc>/v1/charge</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1061.46" width="168.67" height="21.2598"/>
+				<rect x="0" y="1050.83" width="168.661" height="21.2598" class="st2"/>
+				<text x="49.47" y="1065.66" class="st5" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>/v1/charge</text>			</g>
+			<g id="shape41-72" v:mID="41" v:groupContext="shape" transform="translate(54.9213,-40.4645)">
+				<title>Planilha.41</title>
+				<desc>POST</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.4094" cy="1059.72" width="58.82" height="24.7323"/>
+				<rect x="0" y="1047.36" width="58.8189" height="24.7323" rx="12.3662" ry="12.3662" class="st6"/>
+				<text x="9.96" y="1064.97" class="st7" v:langID="1046"><v:paragraph v:spLine="-1.5" v:horizAlign="1"/><v:tabList/>POST</text>			</g>
+		</g>
+		<g id="group42-75" transform="translate(449.508,-0.5)" v:mID="42" v:groupContext="group">
+			<title>[endpoint] POST.1116</title>
+			<g id="shape43-76" v:mID="43" v:groupContext="shape" transform="translate(1.91454E-05,0)">
+				<title>Planilha.43</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st4"/>
+			</g>
+			<g id="shape44-78" v:mID="44" v:groupContext="shape" transform="translate(0,-13.9134)">
+				<title>Planilha.44</title>
+				<desc>/v1/charge/:id/pay</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1061.46" width="168.67" height="21.2598"/>
+				<rect x="0" y="1050.83" width="168.661" height="21.2598" class="st2"/>
+				<text x="23.75" y="1065.66" class="st5" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>/v1/charge/<tspan
+							class="st14">:id</tspan>/pay</text>			</g>
+			<g id="shape45-82" v:mID="45" v:groupContext="shape" transform="translate(54.9213,-40.4645)">
+				<title>Planilha.45</title>
+				<desc>POST</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.4094" cy="1059.72" width="58.82" height="24.7323"/>
+				<rect x="0" y="1047.36" width="58.8189" height="24.7323" rx="12.3662" ry="12.3662" class="st6"/>
+				<text x="9.96" y="1064.97" class="st7" v:langID="1046"><v:paragraph v:spLine="-1.5" v:horizAlign="1"/><v:tabList/>POST</text>			</g>
+		</g>
+		<g id="group46-85" transform="translate(141.098,-550.421)" v:mID="46" v:groupContext="group" v:layerMember="1">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Rótulo.1226</title>
+			<desc>One Step</desc>
+			<g id="shape47-86" v:mID="47" v:groupContext="shape" v:layerMember="1">
+				<title>Planilha.47</title>
+				<rect x="0" y="1053.66" width="85.0394" height="18.4252" class="st15"/>
+			</g>
+			<g id="shape46-88" v:mID="46" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="1062.87" width="112" height="16.8035"/>
+				<text x="12.13" y="1067.08" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>One Step</text>			</g>
+		</g>
+		<g id="group48-90" transform="translate(401.319,-550.421)" v:mID="48" v:groupContext="group" v:layerMember="1">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Rótulo.1228</title>
+			<desc>Two Steps</desc>
+			<g id="shape49-91" v:mID="49" v:groupContext="shape" v:layerMember="1">
+				<title>Planilha.49</title>
+				<rect x="0" y="1053.66" width="85.0394" height="18.4252" class="st15"/>
+			</g>
+			<g id="shape48-93" v:mID="48" v:groupContext="groupContent" v:layerMember="1">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="1062.87" width="112" height="16.8035"/>
+				<text x="8.79" y="1067.08" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>Two Steps</text>			</g>
+		</g>
+		<g id="shape50-95" v:mID="50" v:groupContext="shape" transform="translate(221.744,-472.61)">
+			<title>Relação</title>
+			<desc>Criar cobrança em quantas etapas?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationshipNode)"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(Criar cobrança em quantas etapas?)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.5906" cy="1011.85" width="175.19" height="120.472"/>
+			<path d="M89.2 1070.98 L171.78 1014.19 A2.83465 2.83465 -180 0 0 171.78 1009.52 L89.2 952.72 A2.83465 2.83465 -180 0
+						 0 85.98 952.72 L3.4 1009.52 A2.83465 2.83465 -180 0 0 3.4 1014.19 L85.98 1070.98 A2.83465 2.83465 -180 0
+						 0 89.2 1070.98 Z" class="st16"/>
+			<text x="29.26" y="1007.65" class="st5" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>Criar cobrança em <tspan
+						x="35.23" dy="1.2em" class="st9">quantas etapas?</tspan></text>		</g>
+		<g id="group51-103" transform="translate(302.248,-642.406)" v:mID="51" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1232</title>
+			<g id="shape51-104" v:mID="51" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M7.09 1072.09 L7.09 1110.86" class="st10"/>
+			</g>
+		</g>
+		<g id="group56-109" transform="translate(449.508,-383.177)" v:mID="56" v:groupContext="group">
+			<title>Entidade.1237</title>
+			<g id="shape57-110" v:mID="57" v:groupContext="shape" transform="translate(9.57272E-06,0)">
+				<title>Planilha.57</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st8"/>
+			</g>
+			<g id="shape58-112" v:mID="58" v:groupContext="shape" transform="translate(0,-13.1102)">
+				<title>Planilha.58</title>
+				<desc>Criar transação</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1045.51" width="168.67" height="53.1496"/>
+				<rect x="0" y="1018.94" width="168.661" height="53.1496" class="st2"/>
+				<text x="35.81" y="1050.41" class="st5" v:langID="1046"><v:paragraph v:spLine="-1.4" v:horizAlign="1"/><v:tabList/>Criar transação</text>			</g>
+		</g>
+		<g id="group59-115" transform="translate(449.508,-128.059)" v:mID="59" v:groupContext="group">
+			<title>Entidade.1240</title>
+			<g id="shape60-116" v:mID="60" v:groupContext="shape" transform="translate(9.57272E-06,0)">
+				<title>Planilha.60</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st8"/>
+			</g>
+			<g id="shape61-118" v:mID="61" v:groupContext="shape" transform="translate(0,-13.1102)">
+				<title>Planilha.61</title>
+				<desc>Associar à forma de pagamento (Boleto e Cartão)</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1045.51" width="168.67" height="53.1496"/>
+				<rect x="0" y="1018.94" width="168.661" height="53.1496" class="st2"/>
+				<text x="31.11" y="1030.81" class="st5" v:langID="1046"><v:paragraph v:spLine="-1.4" v:horizAlign="1"/><v:tabList/>Associar à forma <v:newlineChar/><tspan
+							x="37.63" dy="1.4em" class="st9">de pagamento <v:newlineChar/></tspan><tspan x="28.42" dy="1.4em"
+							class="st9">(Boleto e Cartão)</tspan></text>			</g>
+		</g>
+		<g id="group62-123" transform="translate(526.752,-383.177)" v:mID="62" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1243</title>
+			<g id="shape62-124" v:mID="62" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M7.09 1072.09 L7.09 1109.12" class="st10"/>
+			</g>
+		</g>
+		<g id="group67-129" transform="translate(526.752,-255.618)" v:mID="67" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1253</title>
+			<g id="shape67-130" v:mID="67" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M7.09 1072.09 L7.09 1109.12" class="st10"/>
+			</g>
+		</g>
+		<g id="group72-135" transform="translate(526.752,-128.059)" v:mID="72" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1258</title>
+			<g id="shape72-136" v:mID="72" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M7.09 1072.09 L7.09 1109.12" class="st10"/>
+			</g>
+		</g>
+		<g id="group77-141" transform="translate(223.912,-532.846)" v:mID="77" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-2.6735911410423):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1263</title>
+			<g id="shape77-142" v:mID="77" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M0 1072.09 L-133.41 1072.09 A5.66929 5.66929 -180 0 0 -139.08 1077.76 L-139.08 1131.23" class="st10"/>
+			</g>
+		</g>
+		<g id="group82-147" transform="translate(394.757,-532.846)" v:mID="82" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.46800148483739):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1268</title>
+			<g id="shape82-148" v:mID="82" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M0 1072.09 L133.41 1072.09 A5.66929 5.66929 0 0 1 139.08 1077.76 L139.08 1131.23" class="st10"/>
+			</g>
+		</g>
+		<g id="group87-153" transform="translate(80.1536,-383.177)" v:mID="87" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1273</title>
+			<g id="shape87-154" v:mID="87" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M7.09 1072.09 L7.09 1390.01" class="st10"/>
+			</g>
+		</g>
+		<g id="group92-159" transform="translate(449.508,-32.4643)" v:mID="92" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationship)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.78539816339745):32"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(3.1415926535898):32"/>
+			</v:userDefs>
+			<title>Conector de relação c/ ▶.1278</title>
+			<g id="shape92-160" v:mID="92" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M0 1065 L-336.58 1065" class="st10"/>
+			</g>
+		</g>
+		<g id="group97-165" transform="translate(225.004,-911.98)" v:mID="97" v:groupContext="group">
+			<title>Entidade.1004</title>
+			<g id="shape98-166" v:mID="98" v:groupContext="shape" transform="translate(9.57272E-06,0)">
+				<title>Planilha.98</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st19"/>
+			</g>
+			<g id="shape99-168" v:mID="99" v:groupContext="shape" transform="translate(0,-13.1102)">
+				<title>Planilha.99</title>
+				<desc>Authentication in the Billings API</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1045.51" width="168.67" height="53.1496"/>
+				<rect x="0" y="1018.94" width="168.661" height="53.1496" class="st2"/>
+				<text x="17.61" y="1040.61" class="st3" v:langID="1046"><v:paragraph v:spLine="-1.4" v:horizAlign="1"/><v:tabList/>Authentication in the <v:newlineChar/><tspan
+							x="49.35" dy="1.4em" class="st9">Billings API</tspan></text>			</g>
+		</g>
+		<g id="group101-172" transform="translate(225.004,-777.193)" v:mID="101" v:groupContext="group">
+			<title>[endpoint] POST.1005</title>
+			<g id="shape102-173" v:mID="102" v:groupContext="shape" transform="translate(1.91454E-05,0)">
+				<title>Planilha.102</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st20"/>
+			</g>
+			<g id="shape103-175" v:mID="103" v:groupContext="shape" transform="translate(0,-13.9134)">
+				<title>Planilha.103</title>
+				<desc>/v1/authorize</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1061.46" width="168.67" height="21.2598"/>
+				<rect x="0" y="1050.83" width="168.661" height="21.2598" class="st2"/>
+				<text x="41.57" y="1065.66" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>/v1/authorize</text>			</g>
+			<g id="shape104-178" v:mID="104" v:groupContext="shape" transform="translate(54.9213,-40.4645)">
+				<title>Planilha.104</title>
+				<desc>POST</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.4094" cy="1059.72" width="58.82" height="24.7323"/>
+				<rect x="0" y="1047.36" width="58.8189" height="24.7323" rx="12.3662" ry="12.3662" class="st21"/>
+				<text x="9.96" y="1064.97" class="st22" v:langID="1046"><v:paragraph v:spLine="-1.5" v:horizAlign="1"/><v:tabList/>POST</text>			</g>
+		</g>
+		<g id="group106-181" transform="translate(225.004,-642.406)" v:mID="106" v:groupContext="group">
+			<title>Entidade.106</title>
+			<g id="shape107-182" v:mID="107" v:groupContext="shape" transform="translate(9.57272E-06,0)">
+				<title>Planilha.107</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st19"/>
+			</g>
+			<g id="shape108-184" v:mID="108" v:groupContext="shape" transform="translate(0,-13.1102)">
+				<title>Planilha.108</title>
+				<desc>Create charge</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1045.51" width="168.67" height="53.1496"/>
+				<rect x="0" y="1018.94" width="168.661" height="53.1496" class="st2"/>
+				<text x="38.59" y="1050.41" class="st3" v:langID="1046"><v:paragraph v:spLine="-1.4" v:horizAlign="1"/><v:tabList/>Create charge</text>			</g>
+		</g>
+		<g id="shape110-187" v:mID="110" v:groupContext="shape" transform="translate(221.744,-472.61)">
+			<title>Relação.1006</title>
+			<desc>Create charge in how many steps?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Database;DbRelationshipNode)"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(Create charge&#10; in how many steps?)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.5906" cy="1011.85" width="175.19" height="120.472"/>
+			<path d="M89.2 1070.98 L171.78 1014.19 A2.83465 2.83465 -180 0 0 171.78 1009.52 L89.2 952.72 A2.83465 2.83465 -180 0
+						 0 85.98 952.72 L3.4 1009.52 A2.83465 2.83465 -180 0 0 3.4 1014.19 L85.98 1070.98 A2.83465 2.83465 -180 0
+						 0 89.2 1070.98 Z" class="st23"/>
+			<text x="41.85" y="1007.65" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>Create charge<v:newlineChar/><tspan
+						x="24.26" dy="1.2em" class="st9"> </tspan>in how many steps?</text>		</g>
+		<g id="group112-195" transform="translate(0.499981,-383.177)" v:mID="112" v:groupContext="group">
+			<title>[endpoint] POST.112</title>
+			<g id="shape113-196" v:mID="113" v:groupContext="shape" transform="translate(1.91454E-05,0)">
+				<title>Planilha.113</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st20"/>
+			</g>
+			<g id="shape114-198" v:mID="114" v:groupContext="shape" transform="translate(0,-13.9134)">
+				<title>Planilha.114</title>
+				<desc>/v1/charge/one-step</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1061.46" width="168.67" height="21.2598"/>
+				<rect x="0" y="1050.83" width="168.661" height="21.2598" class="st2"/>
+				<text x="16.53" y="1065.66" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>/v1/charge/one-step</text>			</g>
+			<g id="shape115-201" v:mID="115" v:groupContext="shape" transform="translate(54.9213,-40.4645)">
+				<title>Planilha.115</title>
+				<desc>POST</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.4094" cy="1059.72" width="58.82" height="24.7323"/>
+				<rect x="0" y="1047.36" width="58.8189" height="24.7323" rx="12.3662" ry="12.3662" class="st21"/>
+				<text x="9.96" y="1064.97" class="st22" v:langID="1046"><v:paragraph v:spLine="-1.5" v:horizAlign="1"/><v:tabList/>POST</text>			</g>
+		</g>
+		<g id="group117-204" transform="translate(449.508,-383.177)" v:mID="117" v:groupContext="group">
+			<title>Entidade.117</title>
+			<g id="shape118-205" v:mID="118" v:groupContext="shape" transform="translate(9.57272E-06,0)">
+				<title>Planilha.118</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st19"/>
+			</g>
+			<g id="shape119-207" v:mID="119" v:groupContext="shape" transform="translate(0,-13.1102)">
+				<title>Planilha.119</title>
+				<desc>Create transaction</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1045.51" width="168.67" height="53.1496"/>
+				<rect x="0" y="1018.94" width="168.661" height="53.1496" class="st2"/>
+				<text x="24.7" y="1050.41" class="st3" v:langID="1046"><v:paragraph v:spLine="-1.4" v:horizAlign="1"/><v:tabList/>Create transaction</text>			</g>
+		</g>
+		<g id="group120-210" transform="translate(449.508,-128.059)" v:mID="120" v:groupContext="group">
+			<title>Entidade.120</title>
+			<g id="shape121-211" v:mID="121" v:groupContext="shape" transform="translate(9.57272E-06,0)">
+				<title>Planilha.121</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st19"/>
+			</g>
+			<g id="shape122-213" v:mID="122" v:groupContext="shape" transform="translate(0,-13.1102)">
+				<title>Planilha.122</title>
+				<desc>Associate with payment method (Billet and Card)</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1045.51" width="168.67" height="53.1496"/>
+				<rect x="0" y="1018.94" width="168.661" height="53.1496" class="st2"/>
+				<text x="38.28" y="1030.81" class="st3" v:langID="1046"><v:paragraph v:spLine="-1.4" v:horizAlign="1"/><v:tabList/>Associate with <v:newlineChar/><tspan
+							x="28.98" dy="1.4em" class="st9">payment method<v:newlineChar/></tspan><tspan x="32.26" dy="1.4em"
+							class="st9">(Billet and Card)</tspan></text>			</g>
+		</g>
+		<g id="group125-218" transform="translate(449.508,-255.618)" v:mID="125" v:groupContext="group">
+			<title>[endpoint] POST.125</title>
+			<g id="shape126-219" v:mID="126" v:groupContext="shape" transform="translate(1.91454E-05,0)">
+				<title>Planilha.126</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st20"/>
+			</g>
+			<g id="shape127-221" v:mID="127" v:groupContext="shape" transform="translate(0,-13.9134)">
+				<title>Planilha.127</title>
+				<desc>/v1/charge</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1061.46" width="168.67" height="21.2598"/>
+				<rect x="0" y="1050.83" width="168.661" height="21.2598" class="st2"/>
+				<text x="49.47" y="1065.66" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>/v1/charge</text>			</g>
+			<g id="shape128-224" v:mID="128" v:groupContext="shape" transform="translate(54.9213,-40.4645)">
+				<title>Planilha.128</title>
+				<desc>POST</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.4094" cy="1059.72" width="58.82" height="24.7323"/>
+				<rect x="0" y="1047.36" width="58.8189" height="24.7323" rx="12.3662" ry="12.3662" class="st21"/>
+				<text x="9.96" y="1064.97" class="st22" v:langID="1046"><v:paragraph v:spLine="-1.5" v:horizAlign="1"/><v:tabList/>POST</text>			</g>
+		</g>
+		<g id="group130-227" transform="translate(449.508,-0.5)" v:mID="130" v:groupContext="group">
+			<title>[endpoint] POST.130</title>
+			<g id="shape131-228" v:mID="131" v:groupContext="shape" transform="translate(1.91454E-05,0)">
+				<title>Planilha.131</title>
+				<rect x="0" y="992.717" width="168.661" height="79.3701" rx="11.3386" ry="11.3386" class="st20"/>
+			</g>
+			<g id="shape132-230" v:mID="132" v:groupContext="shape" transform="translate(0,-13.9134)">
+				<title>Planilha.132</title>
+				<desc>/v1/charge/:id/pay</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.3307" cy="1061.46" width="168.67" height="21.2598"/>
+				<rect x="0" y="1050.83" width="168.661" height="21.2598" class="st2"/>
+				<text x="23.75" y="1065.66" class="st3" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>/v1/charge/<tspan
+							class="st14">:id</tspan>/pay</text>			</g>
+			<g id="shape133-234" v:mID="133" v:groupContext="shape" transform="translate(54.9213,-40.4645)">
+				<title>Planilha.133</title>
+				<desc>POST</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="29.4094" cy="1059.72" width="58.82" height="24.7323"/>
+				<rect x="0" y="1047.36" width="58.8189" height="24.7323" rx="12.3662" ry="12.3662" class="st21"/>
+				<text x="9.96" y="1064.97" class="st22" v:langID="1046"><v:paragraph v:spLine="-1.5" v:horizAlign="1"/><v:tabList/>POST</text>			</g>
+		</g>
+		<g id="group140-237" transform="translate(72.7126,-25.0118)" v:mID="140" v:groupContext="group">
+			<title>Nó final.137</title>
+			<g id="shape141-238" v:mID="141" v:groupContext="shape">
+				<title>Planilha.141</title>
+				<ellipse cx="14.5276" cy="1057.55" rx="14.5276" ry="14.5391" class="st26"/>
+			</g>
+			<g id="shape142-240" v:mID="142" v:groupContext="shape" transform="translate(4.66093,-4.66464)">
+				<title>Planilha.142</title>
+				<ellipse cx="9.86663" cy="1062.21" rx="9.86663" ry="9.87449" class="st13"/>
+			</g>
+		</g>
+	</g>
+</svg>

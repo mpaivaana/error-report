@@ -1,0 +1,55 @@
+{
+  "name": "website-efi",
+  "version": "1.2.4",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "build:testing": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.4.3",
+    "@docusaurus/plugin-content-docs": "^2.4.3",
+    "@docusaurus/plugin-google-tag-manager": "^2.4.3",
+    "@docusaurus/preset-classic": "^2.4.3",
+    "@mapbox/rehype-highlight-code-block": "^1.0.0",
+    "add": "^2.0.6",
+    "clsx": "^1.1.1",
+    "docusaurus-plugin-image-zoom": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.6.4",
+    "lottie-web": "^5.12.2",
+    "raw-loader": "^4.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-highlight-words": "^0.20.0",
+    "react-markdown": "^8.0.6",
+    "react-modal": "^3.16.1",
+    "rehype": "^12.0.1",
+    "rehype-katex": "4",
+    "rehype-raw": "^6.1.1",
+    "rehype-truncate": "^1.1.0",
+    "remark-gfm": "^3.0.1",
+    "remark-images": "^2.0.0",
+    "serve": "^14.2.0",
+    "to-vfile": "^7.2.4",
+    "webpack": "^5.77.0",
+    "yarn": "^1.22.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
